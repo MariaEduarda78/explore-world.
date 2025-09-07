@@ -1,0 +1,148 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.cabecalho {
+  background-color: #000080;
+  color: white;
+  padding: 20px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.cabecalho .titulo-site {
+  margin-bottom: 0;
+}
+
+.cabecalho nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.cabecalho ul {
+  list-style: none;
+  padding: 0;
+  margin: 5px 0 0 0;
+}
+
+.cabecalho li {
+  margin: 0 15px;
+}
+
+.cabecalho img {
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
+.cabecalho a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.cabecalho a:hover {
+  color: #87ceeb;
+}
+
+.cabecalho nav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+ul li a {
+  display: inline-block;
+  padding: 10px 5px;
+  background-color: #73adeb;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.1s ease;
+  width: 100px;
+  text-align: center;
+}
+
+ul li a:hover {
+  background-color: #0056b3;
+}
+
+.conteudo-principal {
+  padding: 20px;
+  max-width: 960px;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.secao {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #4169e1;
+  text-align: center;
+}
+
+h5 {
+  color: #f5f5f5;
+}
+
+.imagens {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+.botao-principal {
+  background-color: #4169e1;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.botao-principal:hover {
+  background-color: #000080;
+}
+
+.card-servico {
+  background-color: #4169e1;
+  padding: 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.card-servico h3 {
+  color: #000080;
+}
+
+.rodape {
+  background-color: #000080;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.rodape a {
+  color: #fff;
+  text-decoration: none;
+}

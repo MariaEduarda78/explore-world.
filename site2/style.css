@@ -1,0 +1,42 @@
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1) grayscale(100%);
+}
+
+.carousel-indicators [data-bs-target] {
+  opacity: 0.7;
+}
+
+.carousel-indicators .active {
+  background-color: #337ab7; 
+  opacity: 3;
+}
+
+#carouselExampleCaptions {
+  height: 400px; 
+  overflow: hidden;
+}
+
+#carouselExampleCaptions .carousel-item img {
+  height: 50%;
+  object-fit: cover;
+}
+
+.carousel-caption h5 {
+  color: #040421;
+  
+} 
+
+.btn {
+    border-radius: 25px;
+    color: #337ab7;
+}
+
+.carousel-item img {
+  max-height: 100vh;
+  object-fit: cover;
+}
+
+
+
