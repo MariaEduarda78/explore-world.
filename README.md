@@ -27,4 +27,4 @@ Desenvolvido por **Maria Eduarda**.
 ## Inspiração 💡
 
 - [Pexels](https://www.pexels.com/pt-br/): Para as fotos.
-t
+
