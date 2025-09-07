@@ -19,21 +19,6 @@ O projeto foi construído usando as seguintes tecnologias:
 - **Cards de Pacotes de Viagem:** Seção de destaque com cards informativos sobre diferentes destinos, incluindo preço, datas e botões de ação. 📦
 - **Rodapé:** Contém informações de copyright e links para as redes sociais e fontes de inspiração. 🦶
 
-## Como Executar o Projeto ▶️
-
-Para visualizar o projeto localmente, siga os passos abaixo:
-
-1.  Clone este repositório para o seu computador.
-    [[https://github.com/MariaEduarda78/Explore-World.git](https://github.com/MariaEduarda78/Explore-World.git)](https://github.com/MariaEduarda78/explore-world..git
-)
-2.  Navegue até a pasta do projeto.
-    ```bash
-    cd explore-world
-    ```
-3.  Abra o arquivo `index.html` em seu navegador de internet preferido. 
-    
-## Contato 👋
-
 Desenvolvido por **Maria Eduarda**.
 
 - **GitHub:** [MariaEduarda78](https://github.com/MariaEduarda78) 🐙
